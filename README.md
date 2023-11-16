@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Alen Leon**
+👤 **Alen León**
 
 - GitHub: [JhufredL](https://github.com/JhufredL)
 
